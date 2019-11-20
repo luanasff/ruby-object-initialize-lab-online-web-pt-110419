@@ -8,5 +8,3 @@ class Dog
  end 
 end   
   
-lassie=Dog.new("Mutt")
-lassie.breed
