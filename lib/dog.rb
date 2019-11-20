@@ -8,4 +8,5 @@ class Dog
  end 
 end   
   
-breed=Dog.new("Mutt")
+lassie=Dog.new("Mutt")
+lassie.breed
